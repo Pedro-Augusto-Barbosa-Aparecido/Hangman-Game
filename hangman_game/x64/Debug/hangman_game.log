@@ -1,0 +1,6 @@
+﻿  forca.cpp
+  imprime_erros.cpp
+  sorteia_palavra.cpp
+D:\projects\c++\hangman_game\hangman_game\sorteia_palavra.cpp(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  hangman_game.vcxproj -> D:\projects\c++\hangman_game\x64\Debug\hangman_game.exe
